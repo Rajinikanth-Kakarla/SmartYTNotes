@@ -16,6 +16,9 @@ The YouTube Transcript Summarizer is an advanced web-based tool developed using 
 
 This system integrates cutting-edge AI and NLP technologies to ensure that the output is both accurate and highly relevant, meeting the needs of a diverse user base ranging from students and researchers to professionals. By combining OpenAI's generative models, machine translation, and Streamlit's interactive interface, the tool provides a comprehensive solution for improving video content accessibility and understanding.
 
+**Ongoing Development:**
+This project is actively being updated to incorporate newer versions and additional features. Continuous improvements are being made to enhance functionality, improve the user experience, and expand language support. Please stay tuned for upcoming updates and improvements.
+
 **Technologies Utilized**:
 Streamlit
 Natural Language Processing (NLP)
